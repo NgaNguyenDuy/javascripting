@@ -4,7 +4,7 @@
 
 > _Tìm kiếm những hướng dẫn tương tự như thế này? Hãy truy cập website [nodeschool.io](http://nodeschool.io)._
 
-> Đây là một workshop trong nodeschool.io mà tôi fork về. Tất cả các vấn đề về workshop này các bạn có thể tạo issue repo này hoặc tại nodeschool/discussions: https://github.com/nodeschool/discussions
+> Đây là một workshop trong nodeschool.io mà tôi fork về. Tất cả các vấn đề về workshop này các bạn có thể tạo issue tại repo này hoặc tại nodeschool/discussions: https://github.com/nodeschool/discussions
 
 
 ## Cài đặt Node.js
