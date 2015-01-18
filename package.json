@@ -1,13 +1,13 @@
 {
-  "name": "javascripting",
+  "name": "javascripting-vi",
   "description": "Learn JavaScript by adventuring around in the terminal.",
   "version": "1.9.1",
   "repository": {
-    "url": "git://github.com/sethvincent/javascripting.git"
+    "url": "git://github.com/NgaNguyenDuy/javascripting-vi.git"
   },
   "author": "sethvincent",
   "bin": {
-    "javascripting": "index.js"
+    "js-vi": "index.js"
   },
   "preferGlobal": true,
   "dependencies": {

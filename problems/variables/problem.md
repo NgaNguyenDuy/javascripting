@@ -2,7 +2,7 @@
 
 # Biến
 
-Một biết là một tên (định danh) mà có thể tham chiếu (reference) đến một giá trị nhất định. Một biến được khai báo bằng việc sử dụng từ khóa `var` theo sau là tên biến.
+Một `biến` là một tên (định danh) mà có thể tham chiếu (reference) đến một giá trị nhất định. Một biến được khai báo bằng việc sử dụng từ khóa `var` theo sau là tên biến.
 
 Sau đây là một ví dụ: 
 
