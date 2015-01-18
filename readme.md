@@ -1,68 +1,62 @@
 # JAVASCRIPTING
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sethvincent/javascripting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> Learn JavaScript by adventuring around in the terminal.  
+
+> _Tìm kiếm những hướng dẫn tương tự như thế này? Hãy truy cập website [nodeschool.io](http://nodeschool.io)._
+
+> Đây là một workshop trong nodeschool.io mà tôi fork về. Tất cả các vấn đề về workshop này các bạn có thể tạo issue repo này hoặc tại nodeschool/discussions: https://github.com/nodeschool/discussions
 
 
-> _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
+## Cài đặt Node.js
 
-## Install Node.js
+Hãy chắc chắn rằng Node.js là đã được cài đặt trên máy của bạn. 
 
-Make sure Node.js is installed on your computer.
+Cài đặt nó từ [nodejs.org/download](http://nodejs.org/download)
 
-Install it from [nodejs.org/download](http://nodejs.org/download)
+### Cài đặt `javascripting-vi` với `npm`
 
-### Install `javascripting` with `npm`
-
-Open your terminal and run this command:
-
-```
-npm install --global javascripting
-```
-
-The `--global` option installs this module globally so that you can run it as a command in your terminal.
-
-## Run the workshop
-
-Open your terminal and run the following command:
+Hãy mở terminal của bạn và chạy câu lệnh sau: 
 
 ```
-javascripting
+npm install --global javascripting-vi
 ```
 
-You'll see the menu:
+Tùy chọn `--global` hay `-g` sẽ cài đặt module này trên toàn hệ điều hành của bạn, tức là bạn có thể chạy nó như một command trên terminal của mình.
+
+## Bắt đầu thử thách nào!! 
+
+Hãy mở terminal của mình lên và chạy: 
+
+```
+js-vi
+```
+
+Bạn sẽ thấy: 
 
 ![javascripting screenshot](screenshot.png)
 
-Navigate the menu with the up & down arrow keys. 
+Di chuyển trong menu bằng các phím lên(up) và xuống(down).
+Chọn một thử thách bằng việc ấn enter.
 
-Choose a challenge by hitting enter.
-
-### Take a look at this gif that shows the first challenge:
+### Ảnh gif sau sẽ cho thấy thử thách đầu tiên: 
 
 ![first challenge](javascripting.gif)
 
-In the gif I'm using the command line editor `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  
+Trong ảnh gif, Tôi sử dụng trình soạn thảo `nano`([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).
+Bạn có thể sử dụng bất kì trình soạn thảo mà bạn yêu thích: 
 
-You can use any editor you like. 
+- [Sublime Text (2 or 3)](http://www.sublimetext.com/)
+- [Emacs](http://www.gnu.org/software/emacs/)
+- [Vim](http://www.vim.org/)
+- [Atom](http://atom.io)
+- [Brackets](http://brackets.io/)
+- [Webstorm](https://www.jetbrains.com/webstorm/)
 
-[atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
+## Nếu bạn cần sự giúp đỡ?
 
-## Need help with an exercise?
+Hãy mở một issue trong repo nodeschool/discussions: https://github.com/nodeschool/discussions
 
-Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/discussions
-
-Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
-
-## TODOS:
-
-Add these challenges:
-
-- "ACCESSING ARRAY VALUES"
-- "OBJECT KEYS"
-- "FUNCTION RETURN VALUES"
-- "THIS"
-- "SCOPE"
+Đừng quên bao gồm tên của workshop - `javascripting` và tên của thử thách (challenge) mà bạn đang làm việc trong tiêu đề của issue.
 
 ## License
 

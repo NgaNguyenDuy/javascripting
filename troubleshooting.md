@@ -1,6 +1,6 @@
 ---
-# O-oh, something isn't working.
-# But don't panic!  
+# O-oh, có điều gì đó không đúng.
+# Nhưng đừng hoảng sợ!  
 ---
 
 ## Check your solution:

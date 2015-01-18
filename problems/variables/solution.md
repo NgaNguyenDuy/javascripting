@@ -2,10 +2,10 @@
 
 # YOU CREATED A VARIABLE!
 
-Nice work. 
+Làm tốt lắm.
 
-In the next challenge we will look at strings more closely.
+Trong thử thách tiếp theo, chúng ta sẽ xem xét các chuỗi chặt chẽ hơn.
 
-Run `javascripting` in the console to choose the next challenge.
+Hãy chạy lệnh `js-vi` trên màn hình console để chọn thử thách tiếp theo.
 
 ---
