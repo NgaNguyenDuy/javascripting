@@ -1,34 +1,35 @@
 ---
 
-# VARIABLES
+# Biến
 
-A variable is a name that can reference a specific value. Variables are declared using `var` followed by the variable's name.
+Một biết là một tên (định danh) mà có thể tham chiếu (reference) đến một giá trị nhất định. Một biến được khai báo bằng việc sử dụng từ khóa `var` theo sau là tên biến.
 
-Here's an example:
+Sau đây là một ví dụ: 
 
 ```js
 var example;
 ```
 
-The above variable is **declared**, but it isn't defined (it does not yet reference a specific value).
+Biết `example` là đã được **khai báo**, nhưng nó chưa được định nghĩa. (Nó sẽ chưa tham chiếu đến một giá trị nhất định nào cả).
 
-Here's an example of defining a variable, making it reference a specific value:
+Dưới đây là một ví dụ của việc định nghĩa một biến, làm cho nó tham chiếu đến một giá trị nhất định.
 
 ```js
 var example = 'some string';
 ```
 
-Note that it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
+Chú ý rằng biến trên đã được **khai báo** bằng việc sử dụng từ khóa `var` và sử dụng dấu = để `định nghĩa`  giá trị mà nó tham chiếu đến. Đây là một cách thông dụng được biết đến như là "Làm một biến bằng một giá trị".
 
-Create a file named `variables.js`.
+Hãy tạo một file và đặt tên là `variables.js`
 
-In that file declare a variable named `example`.
+Bên trong file đó, chúng ta khai báo một biến tên là `example`.
 
-**Make the variable `example` equal to the value `'some string'`.**
 
-Then use `console.log()` to print the `example` variable to the console.
+**Làm cho biến `example` bằng giá trị `'some string'`.**
 
-Check to see if your program is correct by running this command:
+Sau đó các bạn sử dụng câu lệnh `console.log()` để biến `example` ra ngoài màn hình console.
+
+Kiểm tra xem nếu chương trình của bạn chạy chính xác bằng việc thực hiện lệnh sau: 
 
 `javascripting verify variables.js`
 ---
