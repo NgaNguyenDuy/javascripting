@@ -31,5 +31,5 @@ Sau đó các bạn sử dụng câu lệnh `console.log()` để biến `exampl
 
 Kiểm tra xem nếu chương trình của bạn chạy chính xác bằng việc thực hiện lệnh sau: 
 
-`javascripting verify variables.js`
+`js-vi verify variables.js`
 ---
