@@ -1,9 +1,11 @@
 ---
 
-# WIN: 14 CHARACTERS
+# YUP: 14 kí tự
 
-You got it! The string `example string` has 14 characters.
+Chính xác! Chuỗi `example string` có 14 kí tự.
 
-Run `javascripting` in the console to choose the next challenge.
+
+Chạy `javascripting-vi` lệnh trên terminal của bạn để chọn các thử thách tiếp theo.
+
 
 ---
