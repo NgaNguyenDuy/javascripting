@@ -1,21 +1,22 @@
 ---
 
-# YOU DID IT!
+# BẠN LÀM ĐƯỢC RỒI!
 
 Anything between the parentheses of `console.log()` are printed to the terminal.
+Bất cứ điều gì giữa dấu ngoặc đơn của `console.log()` là được in ra thiết bị đầu cuối của bạn (terminal).
 
-So this: 
+Vì vậy:
 
 ```js
 console.log('hello');
 ```
 
-prints `hello` to the terminal.
+sẽ in ra chuỗi `hello` trên terminal của bạn.
 
-Currently we are printing a **string** of characters to the terminal: `hello`.
 
 In the next challenge we focus on learning about **variables**.
+Trong thử thách tiếp theo, chúng tôi tìm hiểu về **biến**.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy `javascripting` trong console của bạn để lựa chọn các thử thách tiếp theo.
 
 ---
