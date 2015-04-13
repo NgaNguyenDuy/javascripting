@@ -1,11 +1,12 @@
 ---
 
 # YES, PIZZA _IS_ WONDERFUL.
+# VÂNG, PIZZA _is_ WONDERFUL.
 
-Well done, with that `.replace()` method!
+Làm tốt lắm, với phương thức `.replace()`!
 
-Next we will explore **numbers**.
+Tiếp theo, chúng ta sẽ khám phá **numbers**.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy `javascripting-vi` lệnh trên màn hình console để chọn thử thách tiếp theo.
 
 ---

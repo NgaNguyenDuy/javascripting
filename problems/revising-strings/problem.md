@@ -1,12 +1,12 @@
 ---
 
-# REVISING STRINGS
+# SỬA ĐỔI CHUỖI
 
-You will often need to change the contents of a string. 
+Đôi khi bạn sẽ cần phải thay đổi nội dung của một chuỗi.
 
-Strings have built-in functionality that allow you to inspect and manipulate their contents.
+Strings Object đã xây dựng sẵn một số chức năng mà cho phép bạn kiểm tra và sử lý nội dung của nó.
 
-Here is an example using the `.replace()` method:
+Dưới đây là một ví dụ sử dụng phương thức `.replace()`:
 
 ```js
 var example = 'this example exists';
@@ -14,22 +14,22 @@ example = example.replace('exists', 'is awesome');
 console.log(example);
 ```
 
-Note that to change the value that the `example` variable references, we need  
-to use the equals sign again, this time with the `example.replace()` method to  
-the right of the equals sign.
+Chú ý rằng, để thay đổi giá trị mà biến `example` tham chiếu đến, chúng ta cần__
+phải sử dụng dấu bằng một lần nữa, lần này là gán với phương thức `example.replace()` ở__
+bên phải dấu bằng.
 
-## The challenge:
+## Thử thách:
 
-Create a file named `revising-strings.js`.
+Tạo một tệp tin là `revising-strings.js`.
 
-Define a variable named `pizza` that references this string: `pizza is alright`.
+Khởi tạo một biến là `pizza` mà tham chiếu đến giá trị: `pizza is alright`
 
-Use the `.replace()` method to change `alright` to `wonderful`.
+Sử dụng method `.replace()` để thay đổi từ `alright` sang `wonderful`.
 
-Use `console.log()` to print the results of the `.replace()` method to the terminal.
+Sử dụng `console.log()` để in kết quả của phương thức `.replace()` ra màn hình terminal.
 
-Check to see if your program is correct by running this command:
+Kiểm tra xem chương trình của bạn đã chạy đúng chưa bằng cách:
 
-`javascripting verify revising-strings.js`
+`javascripting-vi verify revising-strings.js`
 
 ---
