@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS.
+# THÀNH CÔNG.
 
-You are getting used to this string stuff!
+Bạn đã bắt đầu làm quen với chuỗi!
 
-In the next challenges we will cover how to manipulate strings.
+Trong thử thách tiếp theo, chúng ta sẽ tìm hiểu làm thế nào để thao tác với các chuỗi.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy lệnh `javascripting-vi` trên màn hình console để chọn thử thách tiếp theo cho mình.
 
 ---
