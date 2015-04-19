@@ -2,10 +2,10 @@
 
 # YEAH! NUMBERS!
 
-Cool, you successfully defined a variable as the number `123456789`.
+Tốt lắm, bạn đã định nghĩa thành công một biến với giá trị là số nguyên `123456789`.
 
-In the next challenge we will look at manipulating numbers.
+Trong bài tập tiếp theo chúng ta sẽ thao tác với các con số nhiều hơn.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy `javascripting-vi` trên màn hình console để chọn các bài tập tiếp theo.
 
 ---

@@ -1,28 +1,30 @@
 ---
 
-# NUMBER TO STRING
+# CHUYỂN TỪ SỐ THÀNH CHUỖI
 
-Sometimes you will need to turn a number into a string.
+Đôi khi bạn sẽ cần chuyển một số thành một chuỗi.
 
-In those instances you will use the `.toString()` method. Here's an example:
+Trong những trường hợp như vậy bạn sẽ sử dụng phương thức `.toString()`. Đây là một ví dụ:
 
 ```js
 var n = 256;
 n = n.toString();
 ```
 
-## The challenge
+## Bài Tập:
 
-Create a file named `number-to-string.js`.
+Nhiệm vụ của bạn trong bài tập lần này là chuyển đổi một giá trị kiểu số sang kiểu chuỗi.
 
-In that file define a variable named `n` that references the number `128`;
+Đầu tiên, hãy tạo một tệp tin là `number-to-string.js`.
 
-Call the `.toString()` method on the `n` variable.
+Trong tệp tin đó hãy khai báo một biến `n` và gán nó với giá trị là `128`;
 
-Use `console.log()` to print the results of the `.toString()` method to the terminal.
+Sau đó, gọi phương thức `.toString()` với biến `n`.
 
-Check to see if your program is correct by running this command:
+Cuối cùng, bạn sử dụng `console.log()` để in kết quả của phương thức `.toString()` ra terminal.
 
-`javascripting verify number-to-string.js`
+Để kiểm tra xem chương trình của bạn đã chạy đúng hay chưa, hãy sử dụng lệnh:
+
+`javascripting-vi verify number-to-string.js`
 
 ---

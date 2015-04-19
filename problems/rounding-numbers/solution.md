@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS ROUNDED
+# SỐ ĐÓ ĐÃ ĐƯỢC LÀM TRÒN
 
-Yep, you just rounded the number `1.5` to `2`. Good job.
+Vâng, bạn chỉ làm tròn số `1.5` lên `2`. Làm tốt lắm.
 
-In the next challenge we will turn a number into a string.
+Trong thử thách lần tới, chúng ta sẽ tìm hiểu cách chuyển một số sang dạng chuỗi.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy lệnh `javascripting-vi` ở màn hình console của bạn để chọn các thử thách tiếp theo.
 
 ---

@@ -1,33 +1,32 @@
 ---
 
-# ROUNDING NUMBERS
+# LÀM TRÒN SỐ
 
-We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
+Chúng ta có thể làm các phép toán cơ bản với những toán tử quen thuộc như `+`, `-`, `*`, `/`, and `%`.
 
-For more complex math, we can use the `Math` object.
+Với những phép toán phức tạp hơn, chúng ta có thể sử dụng đối tượng `Math`.
 
-In this challenge we'll use the `Math` object to round numbers.
+Trong nhiệm vụ lần này, chúng ta sẽ sử dụng đối tượng `Math` để làm tròn số.
 
-## The challenge:
+## Bài tập:
 
-Create a file named rounding-numbers.js.
+Đầu tiên, các bạn hãy tạo một tệp tin là `rounding-numbers.js`.
 
-In that file define a variable named `roundUp` that references the float `1.5`.
+Trong tệp tin đó, hãy khai báo một biến là `roundUp` rồi gán nó bằng một số thực `1.5`.
 
-We will use the `Math.round()` method to round the number up.
+Chúng ta sẽ sử dụng phương thức `Math.round()` để làm tròn số lên.
 
-An example of using `Math.round()`:
+Một ví dụ sử dụng `Math.round()`:
 
 ```js
 Math.round(0.5);
 ```
+Khai báo một biến thứ hai là `rounded` rồi gán nó bằng đầu ra của phương thức `Math.round()`, với tham số là biến `roundUp`.
 
-Define a second variable named `rounded` that references the output of the `Math.round()` method, passing in the `roundUp` variable as the argument.
+Sử dụng `console.log()` để in số đó ra terminal.
 
-Use `console.log()` to print that number to the terminal.
+Và cuối cùng, đừng quên kiểm tra xem chương trình của bạn chạy đã đúng hay chưa bằng câu lệnh sau:
 
-Check to see if your program is correct by running this command:
-
-`javascripting verify rounding-numbers.js`
+`javascripting-vi verify rounding-numbers.js`
 
 ---

@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS NOW A STRING!
+# SỐ ĐÓ ĐÃ LÀ MỘT CHUỖI!
 
-Excellent. Good work converting that number into a string.
+Tuyệt vời. Bạn đã làm tốt công việc chuyển đổi một giá trị kiểu số sang kiểu chuỗi.
 
-In the next challenge we will take a look at **if statements**.
+Trong thử thách tiếp theo chúng ta sẽ làm việc với câu lệnh **if statments**.
 
-Run `javascripting` in the console to choose the next challenge.
+Chạy lệnh `javascripting-vi` trên màn hình console để chọn các thử thách tiếp theo.
 
 ---
