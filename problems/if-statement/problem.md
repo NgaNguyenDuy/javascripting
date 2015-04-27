@@ -18,7 +18,7 @@ Bên trong dấu ngoặc đơn, bạn phải truyền vào một điều kiện 
 
 Nếu điều kiện trong dấu ngoặc là sai, đoạn mã trong block else sẽ được thực thi.
 
-## Bài tập:
+## Nhiệm vụ:
 
 Đầu tiên, các bạn tạo một tệp tin tên là: `if-statement.js`.
 
@@ -32,6 +32,6 @@ Nếu không, hãy in ra chuỗi: "**The fruit name has five characters or less.
 
 Kiểm tra xem chương trình của bạn chạy đúng hay chưa bằng lệnh:
 
-`javascripting-vi verify if-statement.js`
+`javascripting verify if-statement.js`
 
 ---
