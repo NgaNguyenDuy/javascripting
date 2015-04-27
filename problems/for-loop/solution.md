@@ -1,11 +1,11 @@
 ---
 
-# THE TOTAL IS 45
+# Giá trị của biến `total` là 45.
 
-That is a basic introduction to for loops, which are handy in a number of situations, particularly in combination with other data types like strings and arrays.
+Đây lfa sự giới thiệu cơ bản về vòng lặp for, nó sẽ có ích trong một số tình huống, đặc biệt là trong sự kết hợp với các kiểu dữ liệu khác như String hay Array.
 
-In the next challenge we'll start working with **arrays**.
+Trong thử thách tiếp theo, chúng ta sẽ bắt đầu làm việc với **arrays**.
 
-Run `javascripting` in the console to choose the next challenge.
+Hãy chạy lênh `javascripting-vi` trên màn hình console để lựa chọn.
 
 ---

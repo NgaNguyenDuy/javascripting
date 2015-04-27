@@ -1,8 +1,8 @@
 ---
 
-# FOR LOOPS
+# Vòng lặp FOR
 
-For loops look like this:
+Vòng lặp for sẽ trông như thế này:
 
 ```js
 for (var i = 0; i < 10; i++) {
@@ -11,33 +11,33 @@ for (var i = 0; i < 10; i++) {
 }
 ```
 
-The variable `i` is used to track how many times the loop has run.
+Biến `i` là được sử dụng để theo dõi xem vòng lặp đã chạy được bao nhiêu lần.
 
-The statement `i < 10;` indicates the limit of the loop. 
-It will continue to loop if `i` is less than `10`.
+Câu lệnh `i < 10;` chỉ ra rằng giới hạn của vòng lặp.
+Nó sẽ tiếp tục lặp nếu `i` vẫn còn nhỏ hơn `10`.
 
-The statement `i++` increases the variable `i` by 1 each loop.
+Câu lệnh `i++` để tăng giá trị `i` lên một sau mỗi vòng lặp.
 
-## The challenge:
+## Bài tập:
 
-Create a file named for-loop.js.
+Hãy tạo một tệp tin là `for-loop.js`.
 
-In that file define a variable named `total` and make it equal the number `0`.
+Trong tệp tin đó hạy tạo một biến là `total` và khởi tạo nó với giá trị bằng `0`.
 
-Define a second variable named `limit` and make it equal the number `10`.
+Định nghĩa một biến thứ hai là `limit` và khởi tạo nó với giá trị bằng `10`.
 
-Create a for loop in 10 iterations. On each loop, add the number `i` to the `total` variable.
+Tạo một vòng lặp bắt đầu với  biến `i` bằng 0 và tăng lên 1 sau mỗi vòng lặp. Vòng lặp sẽ chạy chừng nào `i` còn nhỏ hơn `limit`.
 
-You can use a statement like this one:
+Trong mỗi bước lặp, hãy tăng giá trị của biến `total` lên một khoảng bằng giá trị `i`. Để làm điều này, bạn có thể sử dụng câu lệnh:
 
 ```js
 total += i;
 ```
 
-After the for loop, use `console.log()` to print the `total` variable to the terminal.
+Sau vòng lặp for, hãy sử dụng câu lệnh `console.log()` để in ra giá trị của biến `total()` trên terminal..
 
-Check to see if your program is correct by running this command:
+Kiểm tra xem chương trình của bạn đã chạy đúng chưa bằng các sử dụng câu lệnh:
 
-`javascripting verify for-loop.js`
+`javascripting-vi verify for-loop.js`
 
 ---
