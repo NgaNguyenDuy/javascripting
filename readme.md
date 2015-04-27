@@ -13,12 +13,12 @@ Hãy chắc chắn rằng Node.js là đã được cài đặt trên máy của
 
 Cài đặt nó từ [nodejs.org/download](http://nodejs.org/download)
 
-### Cài đặt `javascripting-vi` với `npm`
+### Cài đặt `javascripting` với `npm`
 
 Hãy mở terminal của bạn và chạy câu lệnh sau: 
 
 ```
-npm install --global javascripting-vi
+npm install --global javascripting
 ```
 
 Tùy chọn `--global` hay `-g` sẽ cài đặt module này trên toàn hệ điều hành của bạn, tức là bạn có thể chạy nó như một command trên terminal của mình.
@@ -28,7 +28,7 @@ Tùy chọn `--global` hay `-g` sẽ cài đặt module này trên toàn hệ đ
 Hãy mở terminal của mình lên và chạy: 
 
 ```
-js-vi
+javascripting
 ```
 
 Bạn sẽ thấy: 
