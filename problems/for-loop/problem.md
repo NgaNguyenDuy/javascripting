@@ -16,9 +16,9 @@ Biến `i` là được sử dụng để theo dõi xem vòng lặp đã chạy 
 Câu lệnh `i < 10;` chỉ ra rằng giới hạn của vòng lặp.
 Nó sẽ tiếp tục lặp nếu `i` vẫn còn nhỏ hơn `10`.
 
-Câu lệnh `i++` để tăng giá trị `i` lên một sau mỗi vòng lặp.
+Câu lệnh `i++` để tăng giá trị `i` lên 1 đơn vị sau mỗi vòng lặp.
 
-## Bài tập:
+## Nhiệm vụ:
 
 Hãy tạo một tệp tin là `for-loop.js`.
 
@@ -34,7 +34,7 @@ Trong mỗi bước lặp, hãy tăng giá trị của biến `total` lên một
 total += i;
 ```
 
-Sau vòng lặp for, hãy sử dụng câu lệnh `console.log()` để in ra giá trị của biến `total()` trên terminal..
+Sau vòng lặp for, hãy sử dụng câu lệnh `console.log()` để in ra giá trị của biến `total()` trên terminal.
 
 Kiểm tra xem chương trình của bạn đã chạy đúng chưa bằng các sử dụng câu lệnh:
 
