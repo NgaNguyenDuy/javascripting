@@ -38,6 +38,6 @@ Sau vòng lặp for, hãy sử dụng câu lệnh `console.log()` để in ra gi
 
 Kiểm tra xem chương trình của bạn đã chạy đúng chưa bằng các sử dụng câu lệnh:
 
-`javascripting-vi verify for-loop.js`
+`javascripting verify for-loop.js`
 
 ---
