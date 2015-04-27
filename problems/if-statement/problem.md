@@ -1,10 +1,10 @@
 ---
 
-# IF STATEMENT
+# CÂU LỆNH IF
 
-Conditional statements are used to alter the control flow of a program, based on a specified boolean condition.
+Câu điều kiện được sử dụng để làm thay đổi dòng điều khiển của một chương trình, dựa trên một giá trị boolean xác định.
 
-A conditional statement looks like this:
+Một câu lệnh điều kiện sẽ có dạng như sau:
 
 ```js
 if (n > 1) {
@@ -14,23 +14,24 @@ if (n > 1) {
 }
 ```
 
-Inside parentheses you must enter a logic statement, meaning that the result of the statement is either true or false. 
+Bên trong dấu ngoặc đơn, bạn phải truyền vào một điều kiện logic (logic statement), điều đó có nghĩa nó chỉ có giá trị đúng hoặc sai.
 
-The else block is optional and contains the code that will be executed if the statement is false.
+Nếu điều kiện trong dấu ngoặc là sai, đoạn mã trong block else sẽ được thực thi.
 
-## The challenge
+## Bài tập:
 
-Create a file named `if-statement.js`.
+Đầu tiên, các bạn tạo một tệp tin tên là: `if-statement.js`.
 
-In that file, declare a variable named `fruit`.
+Trong tệp tin đó, khai báo một biến là: `fruit`.
 
-Make the `fruit` variable reference the value **orange** with the type of **String**.
+Khởi tạo biến `fruit` với giá trị **orange** với kiểu **String**.
 
-Then use `console.log()` to print "**The fruit name has more than five characters."** if the length of the value of `fruit` is greater than five.
-Otherwise, print "**The fruit name has five characters or less.**"
+Sau đó sử dụng câu lệnh `console.log()` để in ra **"The fruit name has more than  five characters."** nếu như độ dài của biến `fruit` là lớn hơn 5.
 
-Check to see if your program is correct by running this command:
+Nếu không, hãy in ra chuỗi: "**The fruit name has five characters or less.**"
 
-`javascripting verify if-statement.js`
+Kiểm tra xem chương trình của bạn chạy đúng hay chưa bằng lệnh:
+
+`javascripting-vi verify if-statement.js`
 
 ---

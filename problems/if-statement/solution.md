@@ -2,10 +2,10 @@
 
 # CONDITIONAL MASTER
 
-You got it! The string `orange` has more than five characters.
+Bạn đã hiểu rồi đấy! Chuỗi `orange` có nhiều hơn 5 kí tự.
 
-Get ready to take on **for loops** next!
+Hãy sẵn sằng để bắt đầu sử dụng **for loops** trong thử thách tiếp theo!
 
-Run `javascripting` in the console to choose the next challenge.
+Đừng quên chạy lệnh `javascripting-vi` ở màn hình console để lựa chọn thử thách tiếp theo cho mình.
 
 ---
