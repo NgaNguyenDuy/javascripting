@@ -1,34 +1,29 @@
----
+A **string** is any value surrounded by quotes.
 
-# CHUỖI
-
-Một **chuỗi** là bất kì giá trị nào được bao quanh bởi dấu ngoặc kép.
-
-Nó có thể là dấu nháy đơn hoặc dấu nháy kép:
+It can be single or double quotes:
 
 ```js
 'this is a string'
 
 "this is also a string"
 ```
-# CHÚ Ý
 
-Trong workshop này, chúng ta chỉ sử dụng dấu nháy đơn.
+## NOTE
 
-## Thử thách::
+Try to stay consistent. In this workshop we'll only use single quotes.
 
-Đối với thử thách lần này, bạn hãy tạo một tệp tin là `strings.js`.
+## The challenge:
 
-Trong tệp tin đó, hãy tạo một biến là `someString` như sau:
+For this challenge, create a file named `strings.js`.
+
+In that file create a variable named `someString` like this:
 
 ```js
 var someString = 'this is a string';
 ```
 
-Sử dụng `console.log` để in ra biến **someString** trên terminal của bạn.
+Use `console.log` to print the variable **someString** to the terminal.
 
-Kiểm tra xem chương trình của bạn chính xác hay chưa bằng cách chạy lênh sau:
+Check to see if your program is correct by running this command:
 
-`javascripting-vi verify strings.js`
-
----
+`javascripting verify strings.js`

@@ -1,36 +1,24 @@
----
-# INTRODUCTION
+Sometimes you will need to turn a number into a string.
 
-Để giữ cho mọi thứ có tổ chức tốt, chúng ta hãy tạo ra một thư mục cho workshop này.
-
-Chạy câu lệnh sau để tạo một thư mục tên là `javascripting-vi` (hay bất cứ tên gì bạn muốn):
-
-`mkdir javascripting-vi`
-
-Di chuyển vào bên trong thư mục `javascripting-vi`:
-
-`cd javascripting-vi`
-
-Tạo một tệp tin là `introduction.js`:
-
-
-`touch introduction.js` Hoặc nếu như bạn đang sử dụng windows, `type NUL > introduction.js` (với `type` là một phần của câu lệnh!)
-
-Mở tệp tin bằng trình soạn thảo(editor) yêu thích của bạn và thêm vào nội dung sau:
-
+In those instances you will use the `.toString()` method. Here's an example:
 
 ```js
-console.log('hello');
+var n = 256;
+n = n.toString();
 ```
 
-Save the file, then check to see if your program is correct by running this command:
-Lưu tập tin, sau đó kiểm tra xem chương trình của bạn đã chính xác hay chưa bằng cách chạy lệnh sau:
+## The challenge:
 
+Create a file named `number-to-string.js`.
 
-`javascripting verify introduction.js`
+In that file define a variable named `n` that references the number `128`;
 
----  
+Call the `.toString()` method on the `n` variable.
 
+Use `console.log()` to print the results of the `.toString()` method to the terminal.
 
-> **Cần trợ giúp?** Xem README cho workshop này: https://github.com/nganguyenduy/javascripting-vi
+Check to see if your program is correct by running this command:
 
+```bash
+javascripting verify number-to-string.js
+```

@@ -1,22 +1,20 @@
 {
-  "name": "javascripting-vi",
+  "name": "javascripting",
   "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "0.0.1",
+  "version": "2.3.0",
   "repository": {
-    "url": "git://github.com/NgaNguyenDuy/javascripting-vi.git"
+    "url": "https://github.com/sethvincent/javascripting.git"
   },
-  "author": [
-      "sethvincent",
-      "NgaNguyenDuy"
-  ],
+  "author": "sethvincent",
   "bin": {
-    "js-vi": "index.js"
+    "javascripting": "./bin/javascripting"
   },
+  "main": "./index.js",
   "preferGlobal": true,
   "dependencies": {
-    "adventure": "^2.8.0",
-    "cli-md": "^0.1.0",
     "colors": "^1.0.3",
-    "diff": "^1.2.1"
-  }
+    "diff": "^1.2.1",
+    "workshopper-adventure": "^4.0.4"
+  },
+  "license": "MIT"
 }
